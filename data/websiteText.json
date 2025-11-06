@@ -1,12 +1,161 @@
 {
   "home": {
     "hero": {
-      "heading": "UPDATED BY THE TEST SCRIPT!",
-      "subheading": "This commit was made by Node.js",
+      "heading": "Confidence, We Got You",
+      "subheading": "Personalized GLP-1 Medication",
       "bulletPoints": {
-        "trustedByExperts": "100% Tested",
-        "provenResults": "Data-Driven Approach"
+        "trustedByExperts": "Trusted by experts",
+        "provenResults": "Data-Driven Approach",
+        "exceptionalCare": "Exceptional care"
+      },
+      "ctaButton": "Take the Assessment"
+    },
+    "discover": {
+      "title": "Discover Your Best Self",
+      "subtitle": "Lose Weight Today",
+      "shippingInfo": "Free Shipping. Fast Delivery.",
+      "providerText": "Speak to a provider today!",
+      "buyNowButton": "Buy Now"
+    },
+    "products": {
+      "title": "Discover Our Products"
+    },
+    "cta": {
+      "title": "Real Results",
+      "subtitle": "See why Medivora is the #1 choice for GLP-1 Medications",
+      "stats": {
+        "patients": "1000+ Patients",
+        "worldwideCare": "Worldwide Care"
+      },
+      "features": {
+        "noHiddenFees": "No Hidden Fees",
+        "freeDelivery": "Free, Expedited Delivery",
+        "doctorLedPlans": "Doctor-led Plans & Coaching",
+        "moneyBackGuarantee": "Money Back Guarantee"
       }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How long is the process on average?",
+          "answer": "The entire process typically takes 2-3 weeks from initial consultation to receiving your medication. This includes the consultation, prescription review, and expedited delivery to your doorstep."
+        },
+        {
+          "question": "Are there any additional fees?",
+          "answer": "No hidden fees! Our transparent pricing includes everything: consultation, prescription, and expedited delivery. What you see is what you pay."
+        },
+        {
+          "question": "How is my provider selected?",
+          "answer": "We carefully match you with a licensed healthcare provider based on your medical history, preferences, and specific needs. All our providers are board-certified and experienced in weight loss management."
+        },
+        {
+          "question": "Do GLP-1s actually work?",
+          "answer": "Yes! GLP-1 medications have been clinically proven to help with weight loss. Studies show patients typically lose 10-15% of their body weight when combined with lifestyle changes. Results vary by individual."
+        }
+      ]
+    },
+    "journey": {
+      "title": "Your Weight Loss Journey",
+      "steps": [
+        {
+          "title": "Case Created",
+          "subtext": "Fill out the form and get excited!"
+        },
+        {
+          "title": "Virtual Consult",
+          "subtext": "Get matched and meet with a provider"
+        },
+        {
+          "title": "Patient Approved",
+          "subtext": "Receive customer service support along the way"
+        },
+        {
+          "title": "Prescription Sent",
+          "subtext": "Fast and free shipping and delivery"
+        },
+        {
+          "title": "Case Closed",
+          "subtext": "Start seeing results! Look into other products"
+        }
+      ],
+      "ctaButton": "Start Today!"
+    }
+  },
+  "about": {
+    "banner": {
+      "title": "About Us",
+      "subtitle": "Quality is our guarantee!",
+      "description": "Medivora works to change the game in the health and wellness space allowing for certified medical care, made simple and effective."
+    },
+    "priority": {
+      "title": "Your Satisfaction Is Our Priority",
+      "features": {
+        "noHiddenFees": "No Hidden Fees",
+        "expeditedDelivery": "Expedited Delivery",
+        "doctorLedPlans": "Doctor-led Plans & Coaching",
+        "moneyBackGuarantee": "Money Back Guarantee"
+      },
+      "support": {
+        "title": "Unlimited 24/7 Support Included",
+        "description": "Medivora provides 24/7 access to a dedicated team of specialists, ensuring you have the support you need around the clock. With unlimited appointments, messaging and support, you can confidently reach out for guidance, ask questions, or address concerns at any time."
+      },
+      "providers": {
+        "title": "Hand Selected Providers",
+        "description": "Medivora physicians are here to guide you every step of the way, bringing both their expertise and genuine care to keep you supported.",
+        "certification": "Certified doctors and clinicians"
+      }
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Explore Our Products",
+      "subtitle": "Personalized GLP-1 Medication",
+      "categoryButton": "Weight Loss"
+    },
+    "section": {
+      "title": "Discover Our Products"
+    }
+  },
+  "contact": {
+    "title": "Contact Us: Fill out the form and hear back from us",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "age": "Age",
+        "email": "Email",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "First and Last",
+        "age": "In Years",
+        "email": "Main Contact",
+        "message": "What would you like to say..."
+      },
+      "submitButton": "Submit",
+      "successMessage": "Thank you for your message! We'll get back to you soon.",
+      "errorMessage": "There was an error submitting your form. Please try again."
+    }
+  },
+  "common": {
+    "buttons": {
+      "next": "Next",
+      "submitToProvider": "Submit to Provider",
+      "back": "Back",
+      "getStarted": "Get Started"
+    },
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "contact": "Contact",
+      "contactUs": "Contact Us",
+      "product": "Product"
+    },
+    "accessibility": {
+      "toggleMenu": "Toggle mobile menu",
+      "brandLogo": "Brand Logo",
+      "menu": "Menu"
     }
   }
 }
